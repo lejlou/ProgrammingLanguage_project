@@ -14,3 +14,12 @@
 ## GO Programming Language - GOLANG 
 
 GO is an open source programming language that makes it easy to build simple, reliable, and efficient software.
+
+Main characteristics: 
+- Open-Source
+- Static Typing 
+- Concurrency Support
+- Powerful Standard Library and Tool Set 
+- Testing Capabilities 
+- Garbage Collection 
+
