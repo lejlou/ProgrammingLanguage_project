@@ -6,10 +6,12 @@
 
 ## Group members
 - Naida Smailbegović (@NaidaSma https://github.com/NaidaSma) 
-- Lejla Srna 
+- Lejla Srna (@lejlou https://github.com/lejlou)
 - Kerim Ahmetspahić (@Kerim357 https://github.com/Kerim357)
 
 ## Project description
+
+Our task for this project is to code an implementation of the popular game “4-in-a-Row”, in the language GO.
 
 
 ## GO Programming Language - GOLANG 
