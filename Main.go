@@ -1,4 +1,4 @@
-package connect4project
+/* package connect4project
 
 import (
     "fmt"
@@ -60,3 +60,5 @@ func main() {
     }
     fmt.Println("Player 1 moves:", player1.moves)
     fmt.Println("Player 2 moves:", player2.moves)
+    
+    */
