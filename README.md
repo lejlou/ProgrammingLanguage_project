@@ -31,4 +31,7 @@ Main characteristics:
 
 ## Run the code 
 
-To run the project, you will first need to install Go on your machine. We used [this link] (https://www.youtube.com/watch?v=etSN4X_fCnM) for instructions how to setup Go language 
+To run the project, you will first need to install Go on your machine. We used this link (https://www.youtube.com/watch?v=etSN4X_fCnM) for instructions how to setup Go language. 
+
+Run the game following these steps: 
+
