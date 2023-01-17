@@ -10,6 +10,7 @@
 ## Project description
 
 Our task for this project is to code an implementation of the popular game “4-in-a-Row”, in the language GO.
+The project was done as part of the IT 305 Programming Languages course at International Burch University, and implemented in the Go programming language.
 
 
 ## GO Programming Language - GOLANG 
@@ -30,3 +31,4 @@ Main characteristics:
 
 ## Run the code 
 
+To run the project, you will first need to install Go on your machine. We used [this link] (https://www.youtube.com/watch?v=etSN4X_fCnM) for instructions how to setup Go language 
