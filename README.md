@@ -35,3 +35,4 @@ To run the project, you will first need to install Go on your machine. We used t
 
 Run the game following these steps: 
 
+go run main.go  --> In terminal 
